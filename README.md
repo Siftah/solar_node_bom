@@ -39,3 +39,4 @@ https://es.aliexpress.com/item/1005006861165595.html
 
 The antenna will mount into one of the two waterproof connectors, leaving the housing watertight but giving the Gizont a fairly robust mounting point.
 ![Mounting the antenna](/assets/images/IMG_1601.jpeg)
+![Mounted Antenna](/assets/images/IMG_1602.jpeg)
